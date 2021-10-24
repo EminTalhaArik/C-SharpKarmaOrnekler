@@ -1,0 +1,11 @@
+D:\Belgeler\Projeler\Yazilim_Projeleri\RandomNumberExample\RandomNumberExample\bin\Debug\RandomNumberExample.exe.config
+D:\Belgeler\Projeler\Yazilim_Projeleri\RandomNumberExample\RandomNumberExample\bin\Debug\RandomNumberExample.exe
+D:\Belgeler\Projeler\Yazilim_Projeleri\RandomNumberExample\RandomNumberExample\bin\Debug\RandomNumberExample.pdb
+D:\Belgeler\Projeler\Yazilim_Projeleri\RandomNumberExample\RandomNumberExample\obj\Debug\RandomNumberExample.csprojAssemblyReference.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\RandomNumberExample\RandomNumberExample\obj\Debug\RandomNumberExample.Form1.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\RandomNumberExample\RandomNumberExample\obj\Debug\RandomNumberExample.Properties.Resources.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\RandomNumberExample\RandomNumberExample\obj\Debug\RandomNumberExample.csproj.GenerateResource.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\RandomNumberExample\RandomNumberExample\obj\Debug\RandomNumberExample.csproj.CoreCompileInputs.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\RandomNumberExample\RandomNumberExample\obj\Debug\RandomNumberExample.exe
+D:\Belgeler\Projeler\Yazilim_Projeleri\RandomNumberExample\RandomNumberExample\obj\Debug\RandomNumberExample.pdb
+D:\Belgeler\Projeler\Yazilim_Projeleri\RandomNumberExample\RandomNumberExample\obj\Debug\RandomNumberExample.MukemmelSayi.resources
